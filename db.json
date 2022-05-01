@@ -1,0 +1,73 @@
+{
+    "factura":[{
+            "num_factura":"fac_01",
+            "num_documento":"101",
+            "nombre":"usuario 1",
+            "telefono":"111",
+            "valor":"4000",
+            "valor_bono":"1000",
+            "valor_conBono":"3000",
+            "descripcion":"producto 1"
+        },
+        {
+            "num_factura":"fac_32",
+            "num_documento":"102",
+            "nombre":"usuario 2",
+            "telefono":"222",
+            "valor":"5000",
+            "valor_bono":"1000",
+            "valor_conBono":"4000",
+            "descripcion":"producto 2.0"
+        },
+        {
+            "num_factura":"fac_22",
+            "num_documento":"102",
+            "nombre":"usuario 2",
+            "telefono":"222",
+            "valor":"8000",
+            "valor_bono":"1500",
+            "valor_conBono":"6500",
+            "descripcion":"producto 2.1"
+        },
+        {
+            "num_factura":"fac_02",
+            "num_documento":"102",
+            "nombre":"usuario 2",
+            "telefono":"222",
+            "valor":"4000",
+            "valor_bono":"1000",
+            "valor_conBono":"3000",
+            "descripcion":"producto 2.2"
+        },
+        {
+            "num_factura":"fac_03",
+            "num_documento":"103",
+            "nombre":"usuario 3",
+            "telefono":"333",
+            "valor":"11000",
+            "valor_bono":"4000",
+            "valor_conBono":"7000",
+            "descripcion":"producto 3"
+        },
+        {
+            "num_factura":"fac_04",
+            "num_documento":"104",
+            "nombre":"usuario 4",
+            "telefono":"444",
+            "valor":"1",
+            "valor_bono":"0",
+            "valor_conBono":"1",
+            "descripcion":"producto 4"
+        },
+        {
+            "num_factura":"fac_05",
+            "num_documento":"105",
+            "nombre":"usuario 5",
+            "telefono":"555",
+            "valor":"4000",
+            "valor_bono":"500",
+            "valor_conBono":"3500",
+            "descripcion":"producto 5"
+        }
+    ]
+}
